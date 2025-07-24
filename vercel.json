@@ -1,4 +1,3 @@
-// point all routs to index
 {
   "rewrites": [
     { "source": "/(.*)", "destination": "/" }
